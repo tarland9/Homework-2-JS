@@ -1,0 +1,23 @@
+#okay{
+    opacity: 0;
+}
+
+h1{
+    position: relative;
+}
+
+#Dark{
+    width:100px;
+    height:40px;
+    position: absolute;
+    top: 2%;
+    left: 86%;
+}
+
+#Light{
+    width:100px;
+    height:40px;
+    position: absolute;
+    top: 2%;
+    left: 93%;
+}
